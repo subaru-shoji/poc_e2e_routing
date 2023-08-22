@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(poc_e2e_routing LANGUAGES CXX)
+project(poc_flutter_e2e_routing LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "poc_e2e_routing")
+set(BINARY_NAME "poc_flutter_e2e_routing")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

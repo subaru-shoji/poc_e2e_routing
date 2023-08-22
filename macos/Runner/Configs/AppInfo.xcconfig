@@ -5,7 +5,7 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = poc_e2e_routing
+PRODUCT_NAME = poc_flutter_e2e_routing
 
 // The application's bundle identifier
 PRODUCT_BUNDLE_IDENTIFIER = com.example.pocE2eRouting

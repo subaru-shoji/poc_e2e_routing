@@ -1,4 +1,4 @@
-# poc_e2e_routing
+# poc_flutter_e2e_routing
 
 A new Flutter project.
 

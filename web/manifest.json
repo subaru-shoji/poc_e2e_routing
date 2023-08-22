@@ -1,6 +1,6 @@
 {
-    "name": "poc_e2e_routing",
-    "short_name": "poc_e2e_routing",
+    "name": "poc_flutter_e2e_routing",
+    "short_name": "poc_flutter_e2e_routing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
